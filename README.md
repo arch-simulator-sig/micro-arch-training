@@ -63,6 +63,8 @@ WIP...
 
 ++ [Complexity-Effective Superscalar Processors](http://ftp.cs.wisc.edu/sohi/papers/1997/isca.complexity.pdf)
 
+[The Microarchitecture of the Pentium 4 Processor](https://courses.cs.washington.edu/courses/cse378/10au/lectures/Pentium4Arch.pdf)
+
 
 ### 数据流架构
 
